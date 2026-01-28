@@ -87,5 +87,6 @@ npm update sandboxjs
 
 ---
 
-**Author:** Galaxy-sc  
+**Author:** Meysam Bal-afkan
+
 **License:** MIT
